@@ -1,0 +1,1 @@
+# currency-analysis-platform
